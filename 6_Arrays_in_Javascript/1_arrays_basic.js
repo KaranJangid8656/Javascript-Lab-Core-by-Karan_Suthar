@@ -7,7 +7,7 @@ const { kMaxLength } = require("buffer")
 // Creating an empty array
 let a = []
 console.log(a)
-
+ 
 // Creating an array and initializing it with values 
 let b = [10,20,30]
 console.log(b)
